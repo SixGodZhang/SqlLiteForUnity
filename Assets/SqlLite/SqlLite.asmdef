@@ -1,0 +1,8 @@
+{
+    "name": "SqlLite",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
