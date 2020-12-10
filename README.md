@@ -63,3 +63,5 @@ SqlLite
 ``` csharp
             cache.Clear();
 ```
+
+测试测试
